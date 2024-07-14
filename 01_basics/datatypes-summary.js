@@ -11,7 +11,7 @@ let userEmail;
 const id = Symbol("123")
 const anotherId = Symbol("123")
 
-console.log(id == anotherId);
+// console.log(id == anotherId);
 
 const bigNumber = 322391320097638162530010283618625182n
 
@@ -26,3 +26,8 @@ let myObj = {
     age: 19,
 }
 
+const myFunction = function(){
+    console.log("Hello World");
+}
+
+console.log(typeof anotherId);
