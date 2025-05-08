@@ -25,7 +25,8 @@ const anotherString = gameName.slice(-8, 4)
 const newStringOne = "    aditya     "
 
 // console.log(newStringOne);
-// console.log(newStringOne.trim());
+console.log(newStringOne.trim());
+
 
 const url = "https://aditya.com/aditya%20matta"
 
