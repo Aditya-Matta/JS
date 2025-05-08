@@ -23,6 +23,8 @@ const hundreds = 1000000
 // console.log(Math.ceil(4.4));
 // console.log(Math.min(4, 3, 6, 8));
 
+// console.log(4**3);
+
 console.log(Math.random());
 console.log((Math.random()*10) + 1);
 console.log(Math.floor(Math.random()*10) + 1);
