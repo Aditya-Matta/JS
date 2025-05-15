@@ -1,8 +1,5 @@
 # Projects related to DOM
 
-## project link
+## Projects link
+[Click here](https://github.com/Aditya-Matta/dom-project)
 
-```javascript
-console.log("Hello")
-
-```
